@@ -1,3 +1,4 @@
+//requires kafka rpc file.
 var rpc = new (require("./kafkarpc"))();
 
 //make request to kafka
